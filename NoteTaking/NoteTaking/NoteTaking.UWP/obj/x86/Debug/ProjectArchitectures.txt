@@ -1,0 +1,1 @@
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.UWP\NoteTaking.UWP.csproj;x86

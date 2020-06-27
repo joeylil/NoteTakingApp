@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NoteTaking.PopUp"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+    <StackLayout Margin="1"
+                 Padding="14"
+                 Spacing="14"
+                 BackgroundColor="White"
+                 HorizontalOptions="Center"
+                 VerticalOptions="Center">
+        <StackLayout>
+            <Label Text="Title*"/>
+            <Entry FontSize="20"
+                   Placeholder="Title"
+                   x:Name="title"
+                   />
+            <Label FontSize="10" Text="Entry required" x:Name="titleError" IsVisible="False" TextColor="Red"/>
+        </StackLayout>
+        <StackLayout WidthRequest="500">
+            <Label Text="Content*"/>
+            <Editor FontSize="20"
+                   Placeholder="Note Contents here"
+                   x:Name="content"
+                    HeightRequest="400"
+                   />
+        </StackLayout>
+        <Button BackgroundColor="DodgerBlue"
+                FontSize="30"
+                Text="Confirm"
+                TextColor="White"
+                Clicked="Confirm"
+                CommandParameter="{Binding .}"/>
+    </StackLayout>
+</pages:PopupPage>
+    

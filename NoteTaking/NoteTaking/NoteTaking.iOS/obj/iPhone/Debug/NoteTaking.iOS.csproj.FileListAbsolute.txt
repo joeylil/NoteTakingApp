@@ -1,0 +1,7 @@
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking.iOS\obj\iPhone\Debug\NoteTaking.iOS.csproj.CoreCompileInputs.cache

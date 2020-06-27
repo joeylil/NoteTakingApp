@@ -1,0 +1,15 @@
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\PopUp.xaml.g.cs
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\NoteTaking.AssemblyInfoInputs.cache
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\NoteTaking.AssemblyInfo.cs
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\NoteTaking.dll
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\ref\NoteTaking.dll
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\NoteTaking.pdb
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\bin\Debug\netstandard2.0\NoteTaking.deps.json
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\bin\Debug\netstandard2.0\NoteTaking.dll
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\bin\Debug\netstandard2.0\ref\NoteTaking.dll
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\bin\Debug\netstandard2.0\NoteTaking.pdb
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joeyl\source\repos\NoteTaking\NoteTaking\NoteTaking\obj\Debug\netstandard2.0\NoteTaking.csprojAssemblyReference.cache
